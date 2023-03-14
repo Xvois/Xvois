@@ -1,7 +1,3 @@
-I don't fully understand how GitHub works.
+I am interested in understanding physical phenomena and creating beautiful, interative websites to connect and inform.
 
-I am currently focused on rewriting SPIRAL for C# and creating Photon for my Computer Science A-Level.
-<!---
-Xvois/Xvois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently working on an expansion to my SPIRAL project to bring it to another langauge, with the focus on making it more performant, configurable and accurate.

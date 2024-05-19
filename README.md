@@ -36,5 +36,5 @@ My project experience spans developing social platforms, educational tools, and 
 
 Feel free to reach out if you share similar interests, have project ideas, or just want to chat about the wonders of the universe!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sonny-parker-86982229b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sonny-parker-86982229b)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sonnymparker9@mgmail.com)
